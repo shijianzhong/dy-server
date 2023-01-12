@@ -1,7 +1,7 @@
 /*
  * @Date: 2023-01-10 10:54:20
- * @LastEditors: shijianzhong shijianzhong@enn.cn
- * @LastEditTime: 2023-01-10 16:25:54
+ * @LastEditors: shijianzhong 994129509@qq.com
+ * @LastEditTime: 2023-01-12 14:30:20
  * @FilePath: /dy-server/components/ImgItem.tsx
  */
 
@@ -16,17 +16,17 @@ export function ImgItem(props: JSX.HTMLAttributes<HTMLElement>) {
         <div class="title-over">
           <h4>
             {props}
-            <a href="#">Praesent eget lectus mauris</a>
+            <a href="https://girls.deno.dev/">so beautiful</a>
           </h4>
         </div>
         <div class="post-hover text-center">
           <div class="inside">
             <i class="fa fa-plus"></i>
-            <span class="date">20 Jan 2084</span>
+            <span class="date">12 Jan 2023</span>
             <h4>
-              <a href="#">Praesent eget lectus mauris</a>
+              <a href="https://girls.deno.dev/">sponsor</a>
             </h4>
-            <p>Morbi placerat pellentesque tortor, sed auctor dolor</p>
+            <p>Your praise is my motivation</p>
           </div>
         </div>
       </div>
