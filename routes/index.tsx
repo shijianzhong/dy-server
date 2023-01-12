@@ -1,8 +1,8 @@
 /*
  * @Date: 2023-01-10 09:49:39
- * @LastEditors: shijianzhong shijianzhong@enn.cn
- * @LastEditTime: 2023-01-12 10:17:10
- * @FilePath: /dy-server/routes/pic.tsx
+ * @LastEditors: shijianzhong 994129509@qq.com
+ * @LastEditTime: 2023-01-12 14:23:07
+ * @FilePath: /dy-server/routes/index.tsx
  */
 import { Head } from "$fresh/runtime.ts";
 import Counter from "../islands/Counter.tsx";
@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Fresh App</title>
+        <title>beautiful photos</title>
         <meta charSet="utf-8"></meta>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
         <meta name="description" content=""></meta>
@@ -33,6 +33,8 @@ export default function Home() {
         <link rel="stylesheet" href="/css/font-awesome.css" />
         <link rel="stylesheet" href="/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/css/templatemo-style.css" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8317527679530231"
+     crossOrigin="anonymous"></script>
       </Head>
         {/* <div id="loader-wrapper">
             <div id="loader"></div>
