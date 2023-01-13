@@ -1,7 +1,7 @@
 /*
  * @Date: 2023-01-10 09:49:39
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-01-12 14:23:07
+ * @LastEditTime: 2023-01-13 11:58:57
  * @FilePath: /dy-server/routes/index.tsx
  */
 import { Head } from "$fresh/runtime.ts";
@@ -69,17 +69,17 @@ export default function Home() {
                     <div class="row">
                         <form action="#" method="post" class="subscribe-form">
                             <fieldset class="col-md-offset-4 col-md-3 col-sm-8">
-                                <input type="email" id="subscribe-email" placeholder="Enter your email..." />
+                                <input type="email" id="subscribe-email" placeholder="shijianzhong521@gmail.com" />
                             </fieldset>
                             <fieldset class="col-md-5 col-sm-4">
-                                <input type="submit" id="subscribe-submit" class="button white" value="Subscribe!" />
+                                <input type="submit" id="subscribe-submit" class="button white" value="联系我!" />
                             </fieldset>
                         </form>
                     </div>
                 </div>
             </div> 
         </div>
-        <div class="copyrights">Collect from <a href="https://www.webmoban.net"  title="网站模板">网站模板</a></div>
+        <div class="copyrights">Collect from <a href="https://www.webmoban.net"  title=""></a></div>
         <div class="main-posts">
             <ImgsContainer></ImgsContainer>
         </div>

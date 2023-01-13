@@ -2,9 +2,14 @@
 	position: relative;
 	z-index: 6;
 }
-
+.blog-masonry{
+	display: flex !important;
+	flex-direction: column !important;
+}
 .post-masonry {
 	margin-bottom: 30px;
+	height: 340px !important;
+
 	.post-thumb {
 		border: 10px solid $white;
 		overflow: hidden;
